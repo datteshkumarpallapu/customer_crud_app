@@ -142,7 +142,7 @@ src/
 
 ![login][def]
 - **customer_list.jsp**: Displays a list of customers.
-s
+
 ![data](https://gist.github.com/user-attachments/assets/9fa1109c-2e38-493b-a09e-b499f20ba175)
 - **customer-form.jsp**: Form for creating or editing a customer.
 
