@@ -126,7 +126,8 @@ src/
 
    - Click the "Sync" button on the customer list page to fetch and update customer data from the remote API.
 
-![list](https://gist.github.com/user-attachments/assets/626010d6-fe41-4674-b295-b629b9b7646e)
+
+<img src="/images/list.png" alt="list">
 
 # Code Explanation
 ## Authentication
@@ -140,18 +141,18 @@ src/
 ## JSP Pages
 - **login.jsp**: Login form for user authentication.
 
-![login][def]
+<img src="/images/login.png" alt="login">
 - **customer_list.jsp**: Displays a list of customers.
 
-![data](https://gist.github.com/user-attachments/assets/9fa1109c-2e38-493b-a09e-b499f20ba175)
+<img src="/images/data.png" alt="data">
 - **customer-form.jsp**: Form for creating or editing a customer.
 
 
-![form](https://gist.github.com/user-attachments/assets/1779c7aa-4535-4bde-adb3-91f9b0db0b1e)
+<img src="/images/form.png" alt="form">
 - **error.jsp**: Display the exception.
 
 
-![error](https://gist.github.com/user-attachments/assets/d5d4ab42-f6d1-4ce7-98fb-cb586a6abaf4)
+<img src="/images/error.png" alt="error">
 
 ## Conclusion
 
