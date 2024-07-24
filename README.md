@@ -69,7 +69,7 @@ src/
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/customer-crud-app.git
+   git clone (https://github.com/datteshkumarpallapu/customer_crud_app.git)
    cd MajorProject
 
 
