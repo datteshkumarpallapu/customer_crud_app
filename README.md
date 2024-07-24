@@ -142,13 +142,16 @@ src/
 - **login.jsp**: Login form for user authentication.
 
 <img src="/images/login.png" alt="login">
+
 - **customer_list.jsp**: Displays a list of customers.
 
 <img src="/images/data.png" alt="data">
+
 - **customer-form.jsp**: Form for creating or editing a customer.
 
 
 <img src="/images/form.png" alt="form">
+
 - **error.jsp**: Display the exception.
 
 
